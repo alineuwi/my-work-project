@@ -1,23 +1,15 @@
 # my-work-project, Date 10th,Dec 2018
-By **UWIMANA Aline**
-Description
-The Description of my project talks about the project that i have made, my background,expirience and talks more aboutme.
+By UWIMANA Aline
+This project displays the lessons I learnt in week one of prep school at Moringa school; It includes a brief decription of who Aline Uwimana is, what my hobbies are then finally attached links to what I learnt in different examples.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+-Requires internet and code editor.
 ## Known Bugs
-MY website  was about my  background ,my experience hobbies interest and skills
+-No issues, unless found any, feel free to contact me on +2507889122
 ## Technologies Used
-My website  i used HTML code and CSS styles
+I used HTML code and CSS styles
 ## Support and contact details
  Email:alikimy02@gmail.com
  Phone:0788980122
- my website:
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {20178} UWIMANA Aline
   

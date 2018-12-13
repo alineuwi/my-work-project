@@ -7,6 +7,8 @@ This project displays the lessons I learnt in week one of prep school at Moringa
 -No issues, unless found any, feel free to contact me on +2507889122
 ## Technologies Used
 I used HTML code and CSS styles
+## Link
+
 ## Support and contact details
  Email:alikimy02@gmail.com
  Phone:0788980122
